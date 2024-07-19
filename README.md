@@ -3,9 +3,9 @@
 👋 Sobre 
 
 Olá, me chamo João Paulo Voss Duarte. Sou formado em Sistemas de Informação pela Universidade Paranaense (Unipar).
-Meu foco de estudo está no desenvolvimento de aplicações web. 
+Meu foco de estudo está em trazer qualidade a projetos. 
 <br/>
-Buscando sempre desenvolver aplicações que tenham boa usabilidade e boa perfomace. 
+Buscando sempre utilizar melhores ferramentas, boas práticas e sempre buscar conhecimento. 
   
 </div>
   
